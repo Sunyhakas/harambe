@@ -1,0 +1,22 @@
+{"timecard": [
+    {
+        //Date in JavaScript date format. If this is correctly formatted, the string can be supplied directly to the Date() function, which will parse it into a Date object.
+        "start": "Mon Aug 15 2016 17:40:00 GMT-0700 (Pacific Daylight Time)", 
+        //Duration in minutes.
+        "duration": "240",
+        //User's name.
+        "user": "aaron",
+        //Name of project that was worked on during this period
+        "project": "SH Portfolio"
+    }, {
+        "start": "Mon Aug 15 2016 17:40:00 GMT-0700 (Pacific Daylight Time)",
+        "duration": "240",
+        "user": "amanda",
+        "project": "SH Portfolio"
+    }, {
+        "start": "Mon Aug 15 2016 19:20:00 GMT-0700 (Pacific Daylight Time)",
+        "duration": "140",
+        "user": "tim",
+        "project": "SH Portfolio"
+    }
+]}

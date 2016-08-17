@@ -18,5 +18,15 @@
         "duration": "140",
         "user": "tim",
         "project": "SH Portfolio"
+    }, {
+        "start": "Mon Aug 16 2016 19:40:00 GMT-0700 (Pacific Daylight Time)",
+        "duration": "70",
+        "user": "aaron",
+        "project": "SH Portfolio"
+    }, {
+        "start": "Mon Aug 16 2016 20:10:00 GMT-0700 (Pacific Daylight Time)",
+        "duration": "40",
+        "user": "tim",
+        "project": "SH Portfolio"
     }
 ]}
